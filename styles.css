@@ -6,7 +6,7 @@
 	text-align:center;
 	padding:10px;
 }
-header{
+h1{
 	background-color:#011e29;
 	text-align:center;
 	color:white;
@@ -21,6 +21,7 @@ header{
 }
 .main_article{
 	text-align:center;
+	padding:10px
 	
 }
 
