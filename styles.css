@@ -1,10 +1,14 @@
 /*  your css code here. If applicable */
 
-.header{
-	display:flex;
+header{
 	background-color:#f5f5f5;	
 	text-align:center;
 	padding:10px;
+}
+.main{
+	display:flex;
+	justify-content:space-between;
+	text-align:center:
 }
 h1{
 	background-color:#011e29;
@@ -21,7 +25,8 @@ h1{
 }
 .main_article{
 	text-align:center;
-	padding:10px
+	padding:10px;
+	margi
 	
 }
 
